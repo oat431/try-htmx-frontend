@@ -1,0 +1,1 @@
+# Try simple HTMX example
